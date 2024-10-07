@@ -1,14 +1,19 @@
-# 💫 About Me:
-👋 Hi there!<br><br>I'm **Sushil Kumar Singh**, a passionate Full-Stack Developer pursuing my B.Tech in Computer Science. I focus on building responsive and user-friendly web applications while also diving into backend technologies and cybersecurity. I enjoy collaborating on innovative projects and am always eager to learn new technologies.
 
+---
+# 💫 About Me:
+<h1 align="center">
+  Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+<br><br>I'm Sushil Kumar Singh, a passionate Full-Stack Developer pursuing my B.Tech in Computer Science (Class of 2025). I focus on building responsive and user-friendly web applications while also diving into backend technologies and cybersecurity. I enjoy collaborating on innovative projects and am always eager to learn new technologies.
+<br><br>
 🚀 **What I Do**<br><br>
 - **Web Developer**: Proficient in creating modern web experiences using HTML, CSS, JavaScript, and React.
 - **Backend Developer**: Skilled in Python, Node.js, and MySQL to develop robust backend solutions.
 - **Collaborator**: Love working in teams, bringing ideas to life, and solving real-world problems.
-
+<br><br>
 🌱 **Always Learning**<br><br>
 Currently, I am advancing my skills in frontend frameworks and backend technologies.
-
+<br><br>
 🎯 **Looking Ahead**<br>
 I’m eager to work on impactful projects and continue expanding my knowledge in full-stack development. Let's build something amazing together!
 
@@ -59,8 +64,8 @@ I’m eager to work on impactful projects and continue expanding my knowledge in
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sushilsingh33&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sushilsingh33&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sushilsingh33&show_icons=true&theme=radical)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sushilsingh33&theme=radical)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sushilsingh33&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
