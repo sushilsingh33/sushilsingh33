@@ -4,7 +4,7 @@
 <h1 align="center">
   Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
-<br><br>I'm Sushil Kumar Singh, a passionate Full-Stack Developer pursuing my B.Tech in Computer Science (Class of 2025). I focus on building responsive and user-friendly web applications while also diving into backend technologies and cybersecurity. I enjoy collaborating on innovative projects and am always eager to learn new technologies.
+<br><br>I'm Sushil Kumar Singh, a passionate Full-Stack Developer pursuing my B.Tech in Computer Science. I focus on building responsive and user-friendly web applications while also diving into backend technologies and cybersecurity. I enjoy collaborating on innovative projects and am always eager to learn new technologies.
 <br><br>
 🚀 **What I Do**<br><br>
 - **Web Developer**: Proficient in creating modern web experiences using HTML, CSS, JavaScript, and React.
